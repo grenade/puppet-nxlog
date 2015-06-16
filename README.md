@@ -1,6 +1,7 @@
-puppet-nxlog
-============
+# puppet-nxlog
 
-Puppet installer for nxLog on Windows.
-Should be a generic module meant to be customized via hiera.
-Supports unc path for source, as well as http(s)/ftp/puppet/s3
+## NXLog installer for Puppet
+
+A generic module featuring:
+- Hiera customisation
+- UNC, http(s), ftp, puppet, s3 source paths
